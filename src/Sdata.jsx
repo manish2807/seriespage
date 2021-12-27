@@ -17,21 +17,21 @@ const Sdata =[
         sname: "Squid Game",
         imgscr: "http://m.gettywallpapers.com/wp-content/uploads/2021/10/Squid-Game-Wallpaper-1.jpg",
         title: "A Netflix Original Series",
-        link: "https://www.netflix.com/sg/title/81040344",
+        links: "https://www.netflix.com/sg/title/81040344",
     },
     {
         id:4,
         sname: "Stranger Things",
         imgscr: "https://wallpaperaccess.com/full/825441.jpg",
         title: "A Netflix Original Series",
-        link: "https://www.netflix.com/in/title/80057281",
+        links: "https://www.netflix.com/in/title/80057281",
     },
     {
         id:5,
         sname: "Kota Factory",
         imgscr: "https://m.media-amazon.com/images/M/MV5BOGVmMGYwZTEtOGFlYS00ODRhLTg3M2MtMzc1OGNhNzU3N2IzXkEyXkFqcGdeQXVyNDY4NjAxNTc@._V1_.jpg",
         title: "A Netflix Original Series",
-        link: "https://www.netflix.com/in/title/81249783",
+        links: "https://www.netflix.com/in/title/81249783",
     },
 ];
 
